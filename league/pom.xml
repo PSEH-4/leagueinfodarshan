@@ -5,8 +5,8 @@
 
 	<artifactId>league</artifactId>
 	<packaging>war</packaging>
-	<name>Spring Boot Web JSP Example</name>
-	<description>Spring Boot Web JSP Example</description>
+	<name>league</name>
+	<description>league</description>
 	<version>1.0</version>
 
 	<parent>
